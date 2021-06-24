@@ -33,13 +33,20 @@ Finally, to maintain consistency over all the interface, we made a custom desing
 We show below some of the pages for our final prototype
 
 **Homepage**
+![Homepage example](https://user-images.githubusercontent.com/67196406/123234899-a8367680-d4db-11eb-90e6-bb7c7987e66d.png)
 
 **Dark Theme Minimalistic Homepage**
+![Dark themed Homepage](https://user-images.githubusercontent.com/67196406/123234927-b1274800-d4db-11eb-9a0f-56c30201e720.png)
 
 **Menù**
+![Menù](https://user-images.githubusercontent.com/67196406/123234947-b7b5bf80-d4db-11eb-88ed-f104959bb9e9.png)
 
 **Popup**
+![Popup](https://user-images.githubusercontent.com/67196406/123234958-bb494680-d4db-11eb-9fc8-afb22949b18f.png)
 
 **Customization**
+![Customization](https://user-images.githubusercontent.com/67196406/123234974-bedccd80-d4db-11eb-9cbc-a730bfb59374.png)
 
 **Design System**
+![Design System](https://user-images.githubusercontent.com/67196406/123234986-c308eb00-d4db-11eb-848e-19592daffd5c.png)
+
