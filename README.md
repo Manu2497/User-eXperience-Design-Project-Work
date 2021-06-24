@@ -27,6 +27,19 @@ We then used the evaluation phase user feedbacks and Nielsen heuristics to furth
 ## The Prototype and end results
 
 For the final high fidelity interactive prototype we used Adobe XD and followed UX and UI desing best practices. In particular we evaluated the interface using the 10 Nielsen heuristics and followed the Google Material Desing guidelines and templates.
+Finally, to maintain consistency over all the interface, we made a custom desing system.
 
-### End Results
-We show here some of the pages for our final prototype
+## End Results
+We show below some of the pages for our final prototype
+
+**Homepage**
+
+**Dark Theme Minimalistic Homepage**
+
+**Menù**
+
+**Popup**
+
+**Customization**
+
+**Design System**
