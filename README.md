@@ -29,17 +29,29 @@ We then used the evaluation phase user feedbacks and Nielsen heuristics to furth
 For the final high fidelity interactive prototype we used Adobe XD and followed UX and UI desing best practices. In particular we evaluated the interface using the 10 Nielsen heuristics and followed the Google Material Desing guidelines and templates.
 Finally, to maintain consistency over all the interface, we made a custom desing system.
 
-## End Results
 We show below some of the pages for our final prototype
 
-**Homepage**
+### Homepage
 
-**Dark Theme Minimalistic Homepage**
+![Homepage example](https://user-images.githubusercontent.com/67196406/123234899-a8367680-d4db-11eb-90e6-bb7c7987e66d.png)
 
-**Menù**
+### Dark Theme Minimalistic Homepage
 
-**Popup**
+![Dark themed Homepage](https://user-images.githubusercontent.com/67196406/123234927-b1274800-d4db-11eb-9a0f-56c30201e720.png)
 
-**Customization**
+### Menù
 
-**Design System**
+![Menù](https://user-images.githubusercontent.com/67196406/123234947-b7b5bf80-d4db-11eb-88ed-f104959bb9e9.png)
+
+### Popup
+
+![Popup](https://user-images.githubusercontent.com/67196406/123234958-bb494680-d4db-11eb-9fc8-afb22949b18f.png)
+
+### Customization
+
+![Customization](https://user-images.githubusercontent.com/67196406/123234974-bedccd80-d4db-11eb-9cbc-a730bfb59374.png)
+
+### Design System
+
+![Design System](https://user-images.githubusercontent.com/67196406/123234986-c308eb00-d4db-11eb-848e-19592daffd5c.png)
+
