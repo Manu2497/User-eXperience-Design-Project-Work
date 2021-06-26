@@ -1,6 +1,6 @@
 # UXD Project Work - UNIMORE 2020/2021
 
-This is a group project work for the course of User eXperience Desing (UXD) done at University of Modena and Reggio Emilia (UNIMORE) in the second semester of the accademic year of 2020/2021.
+This is a group project work done for the course of [User eXperience Desing (UXD)](https://personale.unimore.it/rubrica/contenutiad/mperuzzini/2021/64650/N0/N0/9999) teached at University of Modena and Reggio Emilia (UNIMORE) in the second semester of the accademic year of 2020/2021.
 
 ### The Team "Segnali di Fumo"
 
@@ -12,24 +12,33 @@ This is a group project work for the course of User eXperience Desing (UXD) done
 
 ## The project
 
-This work objective was applying User Experience Desing principles and processes to desing and improve both the physical and UI interfaces of the driver control monitor inside a New Holland tractor (CNH).
+The project objective was applying User Experience Desing principles and processess to design and improve both the physical and UI interfaces of a driver control monitor inside a New Holland tractor (CNH group).
+The proposed problem was based on a real project done by the university research lab [Xilab](https://www.xilab.unimore.it/) in collaboration with the CNH group.
 
-We followed a user-centred approach and the **UX Desing Cycle**, made of 4 iterative steps:
+**Example of a modern tractor control monitor and cloche**
 
+![New-Holland-T8-Genesis-2019-05](https://user-images.githubusercontent.com/67196406/123506536-f2972f00-d664-11eb-8653-ffc56855e127.jpg)
+
+## Methodology
+For improving the overall User eXperience, we followed a user-centered approach and the **UX Desing Cycle**, made of 4 iterative steps:
 
 1. **Requirements Gathering** (req. list for users)
 2. **Desing Alternatives** (concept generation)
 3. **Prototyping** (low and high fidelity)
 4. **Evaluation** (user testing)
 
-We then used the evaluation phase user feedbacks and Nielsen heuristics to further improve the final high fidelity prototype done in Adobe XD.
+We then analyzed user feedbacks from testing results and used Nielsen heuristics to further improve the final high fidelity prototype done in Adobe XD.
 
-## The Prototype and end results
+## The Prototype
 
-For the final high fidelity interactive prototype we used Adobe XD and followed UX and UI desing best practices. In particular we evaluated the interface using the 10 Nielsen heuristics and followed the Google Material Desing guidelines and templates.
-Finally, to maintain consistency over all the interface, we made a custom desing system.
+For the final high fidelity interactive prototype we followed UX and UI desing best practices.
+In particular we evaluated the interface using the 10 Nielsen heuristics and followed the Google Material Desing guidelines and templates.
+Additionally, to maintain consistency over all the interface, we made a custom desing system.
 
-We show below some of the pages for our final prototype
+NOTE: The .xd file of the Adobe XD prototype con be found in this repository.
+
+## End Results
+NOTE: not all the pages are shown
 
 ### Homepage
 
@@ -55,3 +64,6 @@ We show below some of the pages for our final prototype
 
 ![Design System](https://user-images.githubusercontent.com/67196406/123234986-c308eb00-d4db-11eb-848e-19592daffd5c.png)
 
+## Additional Information
+Slides (in italian) explaining the desing process and methods used can be found in this repository.
+There are also files for the QFD matrix and the competitors benchmark spreadsheet.
