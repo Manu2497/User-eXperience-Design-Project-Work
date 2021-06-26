@@ -20,7 +20,7 @@ The proposed problem was based on a real project done by the university research
 ![New-Holland-T8-Genesis-2019-05](https://user-images.githubusercontent.com/67196406/123506536-f2972f00-d664-11eb-8653-ffc56855e127.jpg)
 
 ## Methodology
-For improving the overall User eXperience, we followed a user-centered approach and the **UX Desing Cycle**, made of 4 iterative steps:
+For improving the overall User Experience, we followed a user-centered approach and the **UX Design Cycle**, made of 4 iterative steps:
 
 1. **Requirements Gathering** (req. list for users)
 2. **Design Alternatives** (concept generation)
