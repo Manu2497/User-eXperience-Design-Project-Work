@@ -1,6 +1,6 @@
 # UXD Project Work - UNIMORE 2020/2021
 
-This is a group project work done for the course of [User eXperience Desing (UXD)](https://offertaformativa.unimore.it/corso/insegnamento?cds_cod=20-262&aa_ord_id=2009&pds_cod=20-262-2&aa_off_id=2020&lang=ita&ad_cod=IMM-23&aa_corso=1&fac_id=10005&coorte=2020&anno_corrente=2021&durata=2) teached at University of Modena and Reggio Emilia (UNIMORE) in the second semester of the accademic year 2020/2021.
+This is a group project work done for the course of [User eXperience Design (UXD)](https://offertaformativa.unimore.it/corso/insegnamento?cds_cod=20-262&aa_ord_id=2009&pds_cod=20-262-2&aa_off_id=2020&lang=ita&ad_cod=IMM-23&aa_corso=1&fac_id=10005&coorte=2020&anno_corrente=2021&durata=2) taught at University of Modena and Reggio Emilia (UNIMORE) in the second semester of the academic year 2020/2021.
 
 ### The Team "Segnali di Fumo"
 
@@ -12,7 +12,7 @@ This is a group project work done for the course of [User eXperience Desing (UXD
 
 ## The project
 
-The project objective was applying User Experience Desing principles and processess to design and improve both the physical and UI interfaces of a driver control monitor inside a New Holland tractor (CNH group).
+The project objective was applying User Experience Design principles and processes to design and improve both the physical and UI interfaces of a driver control monitor inside a New Holland tractor (CNH group).
 The proposed problem was based on a real project done by the university research lab [Xilab](https://www.xilab.unimore.it/) in collaboration with the CNH group.
 
 **Example of a modern tractor control monitor and cloche**
@@ -23,7 +23,7 @@ The proposed problem was based on a real project done by the university research
 For improving the overall User eXperience, we followed a user-centered approach and the **UX Desing Cycle**, made of 4 iterative steps:
 
 1. **Requirements Gathering** (req. list for users)
-2. **Desing Alternatives** (concept generation)
+2. **Design Alternatives** (concept generation)
 3. **Prototyping** (low and high fidelity)
 4. **Evaluation** (user testing)
 
@@ -31,11 +31,12 @@ We then analyzed user feedbacks from testing results to further improve the fina
 
 ## The Prototype
 
-For the final high fidelity interactive prototype we followed UX and UI desing best practices.
-In particular we evaluated the interface using the [10 Nielsen heuristics](https://miro.medium.com/max/2048/1*1g68ABWvnIxljK0-zmKluQ.jpeg) and followed the [Google Material Desing guidelines](https://material.io/design) and templates.
-Additionally, to maintain consistency over all the interface, we made a custom desing system.
+For the final high fidelity interactive prototype, we followed UX and UI design best practices.
+In particular, we evaluated the interface using the [10 Nielsen heuristics](https://miro.medium.com/max/2048/1*1g68ABWvnIxljK0-zmKluQ.jpeg) and followed the [Google Material Design guidelines](https://material.io/design) and templates.
+Additionally, to maintain consistency over all the interface, we made a custom design system.
 
-NOTE: The .xd file of the Adobe XD prototype (with the desing system included) con be found in this repository.
+NOTE: The .xd file of the Adobe XD prototype (with the design system included) con be found in this repository.
+
 
 ## End Results
 NOTE: not all the pages are shown
@@ -44,7 +45,7 @@ NOTE: not all the pages are shown
 
 ![Homepage example](https://user-images.githubusercontent.com/67196406/123234899-a8367680-d4db-11eb-90e6-bb7c7987e66d.png)
 
-### Dark Theme Simplyfied Homepage
+### Dark Theme Simplified Homepage
 
 ![Dark themed Homepage](https://user-images.githubusercontent.com/67196406/123234927-b1274800-d4db-11eb-9a0f-56c30201e720.png)
 
@@ -66,5 +67,6 @@ NOTE: not all the pages are shown
 
 ## Additional Information
 
-Slides (in italian) explaining the desing process and methods used can be found in this repository.
+Slides (in Italian) explaining the design process and methods used can be found in this repository.
 There are also files for the QFD matrix and the competitors benchmark spreadsheet.
+
