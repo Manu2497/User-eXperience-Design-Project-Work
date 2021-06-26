@@ -27,15 +27,15 @@ For improving the overall User eXperience, we followed a user-centered approach 
 3. **Prototyping** (low and high fidelity)
 4. **Evaluation** (user testing)
 
-We then analyzed user feedbacks from testing results and used Nielsen heuristics to further improve the final high fidelity prototype done in Adobe XD.
+We then analyzed user feedbacks from testing results to further improve the final high fidelity prototype done in Adobe XD.
 
 ## The Prototype
 
 For the final high fidelity interactive prototype we followed UX and UI desing best practices.
-In particular we evaluated the interface using the 10 Nielsen heuristics and followed the Google Material Desing guidelines and templates.
+In particular we evaluated the interface using the [10 Nielsen heuristics](https://chatbotsmagazine.com/usability-heuristics-for-bots-7075132d2c92) and followed the [Google Material Desing guidelines](https://material.io/design) and templates.
 Additionally, to maintain consistency over all the interface, we made a custom desing system.
 
-NOTE: The .xd file of the Adobe XD prototype con be found in this repository.
+NOTE: The .xd file of the Adobe XD prototype (with the desing system included) con be found in this repository.
 
 ## End Results
 NOTE: not all the pages are shown
@@ -44,7 +44,7 @@ NOTE: not all the pages are shown
 
 ![Homepage example](https://user-images.githubusercontent.com/67196406/123234899-a8367680-d4db-11eb-90e6-bb7c7987e66d.png)
 
-### Dark Theme Minimalistic Homepage
+### Dark Theme Simplyfied Homepage
 
 ![Dark themed Homepage](https://user-images.githubusercontent.com/67196406/123234927-b1274800-d4db-11eb-9a0f-56c30201e720.png)
 
@@ -65,5 +65,6 @@ NOTE: not all the pages are shown
 ![Design System](https://user-images.githubusercontent.com/67196406/123234986-c308eb00-d4db-11eb-848e-19592daffd5c.png)
 
 ## Additional Information
+
 Slides (in italian) explaining the desing process and methods used can be found in this repository.
 There are also files for the QFD matrix and the competitors benchmark spreadsheet.
