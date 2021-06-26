@@ -1,6 +1,6 @@
 # UXD Project Work - UNIMORE 2020/2021
 
-This is a group project work done for the course of [User eXperience Desing (UXD)](https://personale.unimore.it/rubrica/contenutiad/mperuzzini/2021/64650/N0/N0/9999) teached at University of Modena and Reggio Emilia (UNIMORE) in the second semester of the accademic year of 2020/2021.
+This is a group project work done for the course of [User eXperience Desing (UXD)](https://offertaformativa.unimore.it/corso/insegnamento?cds_cod=20-262&aa_ord_id=2009&pds_cod=20-262-2&aa_off_id=2020&lang=ita&ad_cod=IMM-23&aa_corso=1&fac_id=10005&coorte=2020&anno_corrente=2021&durata=2) teached at University of Modena and Reggio Emilia (UNIMORE) in the second semester of the accademic year 2020/2021.
 
 ### The Team "Segnali di Fumo"
 
