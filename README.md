@@ -32,7 +32,7 @@ We then analyzed user feedbacks from testing results to further improve the fina
 ## The Prototype
 
 For the final high fidelity interactive prototype we followed UX and UI desing best practices.
-In particular we evaluated the interface using the [10 Nielsen heuristics](https://chatbotsmagazine.com/usability-heuristics-for-bots-7075132d2c92) and followed the [Google Material Desing guidelines](https://material.io/design) and templates.
+In particular we evaluated the interface using the [10 Nielsen heuristics](https://miro.medium.com/max/2048/1*1g68ABWvnIxljK0-zmKluQ.jpeg) and followed the [Google Material Desing guidelines](https://material.io/design) and templates.
 Additionally, to maintain consistency over all the interface, we made a custom desing system.
 
 NOTE: The .xd file of the Adobe XD prototype (with the desing system included) con be found in this repository.
