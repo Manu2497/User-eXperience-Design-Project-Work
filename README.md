@@ -2,7 +2,7 @@
 
 This is a group project work done for the course of [User eXperience Design (UXD)](https://offertaformativa.unimore.it/corso/insegnamento?cds_cod=20-262&aa_ord_id=2009&pds_cod=20-262-2&aa_off_id=2020&lang=ita&ad_cod=IMM-23&aa_corso=1&fac_id=10005&coorte=2020&anno_corrente=2021&durata=2) taught at University of Modena and Reggio Emilia (UNIMORE) in the second semester of the academic year 2020/2021.
 
-### The Team "Segnali di Fumo"
+### The Design Team "Segnali di Fumo ☁️"
 
 - Benedetta Fabrizi ([LinkedIn](https://www.linkedin.com/in/benedetta-fabrizi-54b7971b0) - [GitHub](https://github.com/BerniRubble))
 - Emanuele Bianchi ([LinkedIn](https://www.linkedin.com/in/emanuele-bianchi240497/) - [GitHub](https://github.com/Manu2497))
