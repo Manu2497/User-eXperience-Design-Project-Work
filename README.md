@@ -10,7 +10,7 @@ This is a group project work done for the course of [User eXperience Design (UXD
 - Filippo Monelli ([LinkedIn](https://www.linkedin.com/in/filippo-monelli-8a3b76122/) - [GitHub](https://github.com/FilloMone))
 - Gabriele Rosati ([LinkedIn](https://www.linkedin.com/in/gabriele-rosati-4817b01a7/) - [GitHub](https://github.com/gabri1997))
 
-## The project
+## The project 🔍
 
 The project objective was applying User Experience Design principles and processes to design and improve both the physical and UI interfaces of a driver control monitor inside a New Holland tractor (CNH group).
 The proposed problem was based on a real project done by the university research lab [Xilab](https://www.xilab.unimore.it/) in collaboration with the CNH group.
